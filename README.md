@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:computer: Working as Software Engineer at Microsoft on [TLA+](https://en.wikipedia.org/wiki/TLA+).<br>
+:computer: Working as a Software Engineer at Microsoft on [TLA+](https://en.wikipedia.org/wiki/TLA+).<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lemmy)](https://github.com/anuraghazra/github-readme-stats)
