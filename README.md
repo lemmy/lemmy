@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **lemmy/lemmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:computer: Working as Software Engineer at Microsoft on [TLA+](https://en.wikipedia.org/wiki/TLA+).<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lemmy)](https://github.com/anuraghazra/github-readme-stats)
